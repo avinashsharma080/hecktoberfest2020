@@ -1,2 +1,2 @@
-# hecktoberfest2020
-repository for hecktoberfest 20202
+# hacktoberfest2020
+repository for hecktoberfest 2020
